@@ -10,6 +10,6 @@ class EnumeratedTypesTest {
     }
     @Test
     void usingPrivateEnums() {
-        /** can only use inside the class in which they are nested */
+        /** can only use private enums inside the class in which they are nested */
     }
 }
