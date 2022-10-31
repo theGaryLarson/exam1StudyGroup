@@ -12,7 +12,7 @@ public class GuiArrayList extends JFrame {
         setTitle("Exam 1 Review");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         JPanel panel = new JPanel();
-        panel.setBackground(Color.MAGENTA);
+        panel.setBackground(new Color(93, 39, 179, 255));
         getContentPane().add(panel);
         
         String[] dropDownItems = new String[]{"Item1", "Item2", "Item3"};
