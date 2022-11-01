@@ -1,5 +1,5 @@
 # exam1StudyGroup
-Study Group Base Examples to be used during our study group
+Study Group Base Examples to be used during our study group I included the project files and folder. For those of you not familiar with Github you can download the zip file by clicking the green "Code" button. Scroll to the bottom of the context menu and choose "download zip". If using Intellij unzip the folder. Right click the folder and from the context menu choose open as Intellij project option.
 
 ### Warning!
 Even though the examples are broken into tests.
