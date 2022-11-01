@@ -1,6 +1,6 @@
 package com.exam1.inheritance;
 
-public class Cat extends Animal{
+public class Cat extends Animal implements Pettable{
     
     public Cat(int weight) {
         super(weight);
@@ -18,5 +18,15 @@ public class Cat extends Animal{
     @Override
     public int getWeight() {
         return weight;
+    }
+    
+    @Override
+    public void cuddle() {
+        System.out.println("prrprr");
+    }
+    
+    @Override
+    public void pet() {
+        System.out.println("prrrr...");
     }
 }
