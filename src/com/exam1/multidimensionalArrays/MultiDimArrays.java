@@ -1,4 +1,4 @@
-package multidimensionalArrays;
+package com.exam1.multidimensionalArrays;
 
 public class MultiDimArrays {
     /** rectangular array with 5 rows of books */

@@ -1,6 +1,5 @@
-import multidimensionalArrays.MultiDimArrays;
+import com.exam1.multidimensionalArrays.MultiDimArrays;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 class MultiDimArraysTest {
     @Test
@@ -10,6 +9,6 @@ class MultiDimArraysTest {
     
     @Test
     public void  rectangularArray() {
-        MultiDimArrays test = new MultiDimArrays();
+    
     }
 }
