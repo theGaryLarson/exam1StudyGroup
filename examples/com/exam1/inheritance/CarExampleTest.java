@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 import java.awt.*;
 import java.util.ArrayList;
 
-class CarTest {
+class CarExampleTest {
     @Test
-    void polymorphism() {
+    void polymorphismExample() {
         Car toyota = new Car("Toyota Camry", "V6", Color.RED);
         ElectricCar tesla = new ElectricCar("Tesla", "hybrid", Color.GRAY, true);
     

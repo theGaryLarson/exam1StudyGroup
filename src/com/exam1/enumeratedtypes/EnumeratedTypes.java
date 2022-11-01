@@ -1,3 +1,5 @@
+package com.exam1.enumeratedtypes;
+
 public class EnumeratedTypes {
     
     public static void main(String[] args) {

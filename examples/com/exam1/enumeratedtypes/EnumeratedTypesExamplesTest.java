@@ -1,7 +1,8 @@
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+package com.exam1.enumeratedtypes;
 
-class EnumeratedTypesTest {
+import org.junit.jupiter.api.Test;
+
+class EnumeratedTypesExamplesTest {
     
     @Test
     void usingPublicEnums() {
@@ -10,6 +11,6 @@ class EnumeratedTypesTest {
     }
     @Test
     void usingPrivateEnums() {
-        /** can only use private enums inside the class in which they are nested */
+        /* can only use private enums inside the class in which they are nested */
     }
 }

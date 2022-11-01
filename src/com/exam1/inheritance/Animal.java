@@ -1,5 +1,5 @@
 package com.exam1.inheritance;
-
+/** polymorphism covered in this package tests */
 public abstract class Animal {
     int weight;
     public Animal(int weight) {
